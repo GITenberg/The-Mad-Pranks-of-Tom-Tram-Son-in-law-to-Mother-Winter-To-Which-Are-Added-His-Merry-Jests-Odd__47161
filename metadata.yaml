@@ -1,10 +1,16 @@
 _repo: The-Mad-Pranks-of-Tom-Tram-Son-in-law-to-Mother-Winter-To-Which-Are-Added-His-Merry-Jests-Odd__47161
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47161-h/images/cover.jpg
 creator:
   author:
     agent_name: Crouch, Humphrey
     gutenberg_agent_id: '44164'
     url: http://www.gutenberg.org/2009/agents/44164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47161#The-Mad-Pranks-of-Tom-Tram-Son-in-law-to-Mother-Winter-To-Which-Are-Added-His-Merry-Jests-Odd_
 gutenberg_issued: '2014-10-20'
 gutenberg_type: Text
 identifiers:
