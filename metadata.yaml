@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mad Pranks of Tom Tram, Son-in-law to Mother Winter
 
   To Which Are Added His Merry Jests, Odd Conceits, and Pleasant Tales.'
